@@ -14,6 +14,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
       <head>
         <meta name="keywords" content="velora casino, велора казино, velora casino зеркало, официальный сайт Velora Casino" />
         <meta name="robots" content="index, follow" />
+        <meta name="yandex-verification" content="12751c394b74f432" />
         <script
   dangerouslySetInnerHTML={{
     __html: `
